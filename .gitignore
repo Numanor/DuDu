@@ -1,4 +1,8 @@
-backend/data
+backend/data/road.*
+backend/data/*.data
+!backend/data/road.cnode
+!backend/data/road.nedge
+
 
 .DS_Store
 node_modules/
